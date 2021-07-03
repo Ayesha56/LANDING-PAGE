@@ -1,0 +1,52 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Item2,
+.Item1,
+.catagories {
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.details {
+    margin-top: 95px;
+}
+
+.col-md-5 img {
+    width: 100%;
+}
+
+.card {
+    border-radius: 15px white;
+    box-shadow: 15px 15px 15px 15px whitesmoke;
+    margin-right: 10px;
+    padding: 9px;
+    text-align: center;
+}
+
+.price {
+    font-weight: 700;
+    font-size: 30px;
+    color: black;
+}
+
+.row img {
+    border-radius: 15px white;
+    box-shadow: 15px 15px 15px 15px whitesmoke;
+    margin-right: 10px;
+    box-sizing: 400px;
+}
+
+.col-md-4,
+.row {
+    margin-top: 53px;
+}
+
+.order {
+    margin-left: auto;
+}
+
+.cata {
+    margin-top: -297px;
+}
